@@ -1,2 +1,0 @@
-# chiao-ai
-Erstes Repository
